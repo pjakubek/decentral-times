@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 May 2025 13:30:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market Update 160525</title>
+      <link>http://localhost:1313/posts/market-update-160525/</link>
+      <pubDate>Fri, 16 May 2025 13:30:41 +0200</pubDate>
+      <guid>http://localhost:1313/posts/market-update-160525/</guid>
+      <description>&lt;h1 id=&#34;crypto-market-update-top-10-coins--latest-news&#34;&gt;Crypto Market Update: Top 10 Coins &amp;amp; Latest News&lt;/h1&gt;
+&lt;h2 id=&#34;-top-10-cryptocurrencies-by-market-cap-may-16-2025&#34;&gt;📊 Top 10 Cryptocurrencies by Market Cap (May 16, 2025)&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Coin&lt;/th&gt;
+          &lt;th&gt;Price (USD)&lt;/th&gt;
+          &lt;th&gt;24h Change&lt;/th&gt;
+          &lt;th&gt;Volume (24h)&lt;/th&gt;
+          &lt;th&gt;Volume Change (24h)&lt;/th&gt;
+          &lt;th&gt;Market Cap&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bitcoin (BTC)&lt;/td&gt;
+          &lt;td&gt;$67,842.30&lt;/td&gt;
+          &lt;td&gt;+2.1%&lt;/td&gt;
+          &lt;td&gt;$28.4B&lt;/td&gt;
+          &lt;td&gt;+5.3%&lt;/td&gt;
+          &lt;td&gt;$1.33T&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ethereum (ETH)&lt;/td&gt;
+          &lt;td&gt;$3,812.45&lt;/td&gt;
+          &lt;td&gt;+3.7%&lt;/td&gt;
+          &lt;td&gt;$14.2B&lt;/td&gt;
+          &lt;td&gt;+8.1%&lt;/td&gt;
+          &lt;td&gt;$457.8B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;BNB (BNB)&lt;/td&gt;
+          &lt;td&gt;$582.10&lt;/td&gt;
+          &lt;td&gt;-1.2%&lt;/td&gt;
+          &lt;td&gt;$2.1B&lt;/td&gt;
+          &lt;td&gt;-3.4%&lt;/td&gt;
+          &lt;td&gt;$89.5B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Solana (SOL)&lt;/td&gt;
+          &lt;td&gt;$168.32&lt;/td&gt;
+          &lt;td&gt;+6.5%&lt;/td&gt;
+          &lt;td&gt;$3.8B&lt;/td&gt;
+          &lt;td&gt;+12.6%&lt;/td&gt;
+          &lt;td&gt;$74.9B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;XRP (XRP)&lt;/td&gt;
+          &lt;td&gt;$0.521&lt;/td&gt;
+          &lt;td&gt;+0.8%&lt;/td&gt;
+          &lt;td&gt;$1.5B&lt;/td&gt;
+          &lt;td&gt;-2.1%&lt;/td&gt;
+          &lt;td&gt;$28.3B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cardano (ADA)&lt;/td&gt;
+          &lt;td&gt;$0.462&lt;/td&gt;
+          &lt;td&gt;+1.9%&lt;/td&gt;
+          &lt;td&gt;$890M&lt;/td&gt;
+          &lt;td&gt;+4.7%&lt;/td&gt;
+          &lt;td&gt;$16.4B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dogecoin (DOGE)&lt;/td&gt;
+          &lt;td&gt;$0.132&lt;/td&gt;
+          &lt;td&gt;-0.5%&lt;/td&gt;
+          &lt;td&gt;$1.2B&lt;/td&gt;
+          &lt;td&gt;-1.8%&lt;/td&gt;
+          &lt;td&gt;$18.9B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Toncoin (TON)&lt;/td&gt;
+          &lt;td&gt;$6.24&lt;/td&gt;
+          &lt;td&gt;+4.3%&lt;/td&gt;
+          &lt;td&gt;$620M&lt;/td&gt;
+          &lt;td&gt;+9.2%&lt;/td&gt;
+          &lt;td&gt;$21.7B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Polkadot (DOT)&lt;/td&gt;
+          &lt;td&gt;$7.18&lt;/td&gt;
+          &lt;td&gt;+2.6%&lt;/td&gt;
+          &lt;td&gt;$450M&lt;/td&gt;
+          &lt;td&gt;+3.5%&lt;/td&gt;
+          &lt;td&gt;$9.8B&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Avalanche (AVAX)&lt;/td&gt;
+          &lt;td&gt;$36.75&lt;/td&gt;
+          &lt;td&gt;+5.0%&lt;/td&gt;
+          &lt;td&gt;$780M&lt;/td&gt;
+          &lt;td&gt;+7.9%&lt;/td&gt;
+          &lt;td&gt;$14.6B&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;(Data sourced from CoinGecko as of May 16, 2025, 12:00 UTC)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 16 May 2025 13:25:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;This is the &lt;strong&gt;first&lt;/strong&gt; post here, this is &lt;em&gt;awesome&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s fkin go!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
