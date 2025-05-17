@@ -1,6 +1,6 @@
 +++
 date = '2025-05-16T13:30:41+02:00'
-draft = true
+draft = false
 title = 'Market Update 160525'
 +++
 
